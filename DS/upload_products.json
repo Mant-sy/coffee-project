@@ -1,0 +1,142 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "芝芝莓莓",
+    "category": "芝士茶",
+    "price": 32,
+    "cost": 8
+  },
+  {
+    "product_id": "P002",
+    "product_name": "多肉葡萄",
+    "category": "芝士茶",
+    "price": 30,
+    "cost": 7
+  },
+  {
+    "product_id": "P003",
+    "product_name": "满杯红柚",
+    "category": "鲜果茶",
+    "price": 26,
+    "cost": 6
+  },
+  {
+    "product_id": "P004",
+    "product_name": "芋泥波波",
+    "category": "奶茶",
+    "price": 22,
+    "cost": 5
+  },
+  {
+    "product_id": "P005",
+    "product_name": "杨枝甘露",
+    "category": "鲜果茶",
+    "price": 28,
+    "cost": 7
+  },
+  {
+    "product_id": "P006",
+    "product_name": "烤奶",
+    "category": "奶茶",
+    "price": 14,
+    "cost": 3
+  },
+  {
+    "product_id": "P007",
+    "product_name": "冰淇淋红茶",
+    "category": "奶茶",
+    "price": 18,
+    "cost": 5
+  },
+  {
+    "product_id": "P008",
+    "product_name": "四季春",
+    "category": "纯茶",
+    "price": 12,
+    "cost": 2
+  },
+  {
+    "product_id": "P009",
+    "product_name": "茉莉绿茶",
+    "category": "纯茶",
+    "price": 10,
+    "cost": 2
+  },
+  {
+    "product_id": "P010",
+    "product_name": "桃桃摇摇奶昔",
+    "category": "奶昔",
+    "price": 24,
+    "cost": 5
+  },
+  {
+    "product_id": "P011",
+    "product_name": "西瓜冰沙",
+    "category": "冰沙",
+    "price": 18,
+    "cost": 4
+  },
+  {
+    "product_id": "P012",
+    "product_name": "红豆奶茶",
+    "category": "奶茶",
+    "price": 16,
+    "cost": 4
+  },
+  {
+    "product_id": "P013",
+    "product_name": "布丁奶茶",
+    "category": "奶茶",
+    "price": 17,
+    "cost": 4
+  },
+  {
+    "product_id": "P014",
+    "product_name": "芒果冰沙",
+    "category": "冰沙",
+    "price": 20,
+    "cost": 5
+  },
+  {
+    "product_id": "P015",
+    "product_name": "草莓摇摇乐",
+    "category": "奶昔",
+    "price": 22,
+    "cost": 5
+  },
+  {
+    "product_id": "P016",
+    "product_name": "柠檬养乐多",
+    "category": "饮品",
+    "price": 15,
+    "cost": 3
+  },
+  {
+    "product_id": "P017",
+    "product_name": "百香果绿茶",
+    "category": "纯茶",
+    "price": 16,
+    "cost": 4
+  },
+  {
+    "product_id": "P018",
+    "product_name": "抹茶拿铁",
+    "category": "奶茶",
+    "price": 20,
+    "cost": 5
+  },
+  {
+    "product_id": "P019",
+    "product_name": "黑糖珍珠",
+    "category": "奶茶",
+    "price": 18,
+    "cost": 4
+  },
+  {
+    "product_id": "P020",
+    "product_name": "椰椰奶茶",
+    "category": "奶茶",
+    "price": 19,
+    "cost": 5
+  }
+]

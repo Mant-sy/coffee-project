@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "南宁市" }, "geometry": { "type": "Polygon", "coordinates": [[[107.8, 22.4], [108.8, 22.4], [108.8, 23.2], [107.8, 23.2], [107.8, 22.4]]] }},
+    { "type": "Feature", "properties": { "name": "柳州市" }, "geometry": { "type": "Polygon", "coordinates": [[[108.8, 23.8], [109.8, 23.8], [109.8, 24.6], [108.8, 24.6], [108.8, 23.8]]] }},
+    { "type": "Feature", "properties": { "name": "桂林市" }, "geometry": { "type": "Polygon", "coordinates": [[[109.8, 24.6], [111.0, 24.6], [111.0, 25.6], [109.8, 25.6], [109.8, 24.6]]] }},
+    { "type": "Feature", "properties": { "name": "梧州市" }, "geometry": { "type": "Polygon", "coordinates": [[[110.8, 22.8], [111.6, 22.8], [111.6, 24.0], [110.8, 24.0], [110.8, 22.8]]] }},
+    { "type": "Feature", "properties": { "name": "北海市" }, "geometry": { "type": "Polygon", "coordinates": [[[109.0, 21.2], [109.6, 21.2], [109.6, 21.6], [109.0, 21.6], [109.0, 21.2]]] }},
+    { "type": "Feature", "properties": { "name": "防城港市" }, "geometry": { "type": "Polygon", "coordinates": [[[107.8, 21.4], [108.4, 21.4], [108.4, 22.0], [107.8, 22.0], [107.8, 21.4]]] }},
+    { "type": "Feature", "properties": { "name": "钦州市" }, "geometry": { "type": "Polygon", "coordinates": [[[108.2, 21.6], [109.6, 21.6], [109.6, 22.6], [108.2, 22.6], [108.2, 21.6]]] }},
+    { "type": "Feature", "properties": { "name": "贵港市" }, "geometry": { "type": "Polygon", "coordinates": [[[109.2, 22.8], [110.2, 22.8], [110.2, 23.6], [109.2, 23.6], [109.2, 22.8]]] }},
+    { "type": "Feature", "properties": { "name": "玉林市" }, "geometry": { "type": "Polygon", "coordinates": [[[109.8, 22.2], [110.8, 22.2], [110.8, 23.2], [109.8, 23.2], [109.8, 22.2]]] }},
+    { "type": "Feature", "properties": { "name": "百色市" }, "geometry": { "type": "Polygon", "coordinates": [[[105.6, 23.0], [107.2, 23.0], [107.2, 24.6], [105.6, 24.6], [105.6, 23.0]]] }},
+    { "type": "Feature", "properties": { "name": "贺州市" }, "geometry": { "type": "Polygon", "coordinates": [[[111.0, 23.8], [112.0, 23.8], [112.0, 25.0], [111.0, 25.0], [111.0, 23.8]]] }},
+    { "type": "Feature", "properties": { "name": "河池市" }, "geometry": { "type": "Polygon", "coordinates": [[[106.8, 23.6], [108.4, 23.6], [108.4, 25.2], [106.8, 25.2], [106.8, 23.6]]] }},
+    { "type": "Feature", "properties": { "name": "来宾市" }, "geometry": { "type": "Polygon", "coordinates": [[[108.6, 23.2], [109.8, 23.2], [109.8, 24.2], [108.6, 24.2], [108.6, 23.2]]] }},
+    { "type": "Feature", "properties": { "name": "崇左市" }, "geometry": { "type": "Polygon", "coordinates": [[[106.4, 21.8], [107.8, 21.8], [107.8, 23.0], [106.4, 23.0], [106.4, 21.8]]] }}
+  ]
+}

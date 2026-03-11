@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "product_id": "P001",
+    "product_name": "美式咖啡",
+    "category": "意式经典",
+    "price": "28.00",
+    "cost": "11.00",
+    "stock": 183
+  },
+  {
+    "id": 2,
+    "product_id": "P002",
+    "product_name": "拿铁",
+    "category": "意式经典",
+    "price": "32.00",
+    "cost": "13.00",
+    "stock": 115
+  },
+  {
+    "id": 3,
+    "product_id": "P003",
+    "product_name": "卡布奇诺",
+    "category": "意式经典",
+    "price": "32.00",
+    "cost": "13.00",
+    "stock": 79
+  },
+  {
+    "id": 4,
+    "product_id": "P004",
+    "product_name": "摩卡",
+    "category": "意式经典",
+    "price": "35.00",
+    "cost": "14.00",
+    "stock": 79
+  },
+  {
+    "id": 5,
+    "product_id": "P005",
+    "product_name": "焦糖玛奇朵",
+    "category": "季节&创意",
+    "price": "36.00",
+    "cost": "14.00",
+    "stock": 181
+  },
+  {
+    "id": 6,
+    "product_id": "P006",
+    "product_name": "手冲咖啡",
+    "category": "手冲&冷萃",
+    "price": "45.00",
+    "cost": "18.00",
+    "stock": 62
+  },
+  {
+    "id": 7,
+    "product_id": "P007",
+    "product_name": "冷萃咖啡",
+    "category": "手冲&冷萃",
+    "price": "38.00",
+    "cost": "15.00",
+    "stock": 164
+  },
+  {
+    "id": 8,
+    "product_id": "P008",
+    "product_name": "提拉米苏",
+    "category": "烘焙甜品",
+    "price": "38.00",
+    "cost": "15.00",
+    "stock": 148
+  },
+  {
+    "id": 9,
+    "product_id": "P009",
+    "product_name": "芝士蛋糕",
+    "category": "烘焙甜品",
+    "price": "42.00",
+    "cost": "17.00",
+    "stock": 186
+  },
+  {
+    "id": 10,
+    "product_id": "P010",
+    "product_name": "抹茶拿铁",
+    "category": "季节&创意",
+    "price": "35.00",
+    "cost": "14.00",
+    "stock": 139
+  },
+  {
+    "id": 11,
+    "product_id": "P011",
+    "product_name": "燕麦拿铁",
+    "category": "健康饮品",
+    "price": "34.00",
+    "cost": "14.00",
+    "stock": 85
+  },
+  {
+    "id": 12,
+    "product_id": "P012",
+    "product_name": "椰子拿铁",
+    "category": "季节&创意",
+    "price": "36.00",
+    "cost": "14.00",
+    "stock": 128
+  },
+  {
+    "id": 13,
+    "product_id": "P013",
+    "product_name": "冰美式",
+    "category": "意式经典",
+    "price": "26.00",
+    "cost": "10.00",
+    "stock": 168
+  },
+  {
+    "id": 14,
+    "product_id": "P014",
+    "product_name": "浓缩咖啡",
+    "category": "意式经典",
+    "price": "22.00",
+    "cost": "9.00",
+    "stock": 178
+  },
+  {
+    "id": 15,
+    "product_id": "P015",
+    "product_name": "芒果冰沙",
+    "category": "冰饮系列",
+    "price": "38.00",
+    "cost": "15.00",
+    "stock": 105
+  },
+  {
+    "id": 16,
+    "product_id": "P016",
+    "product_name": "草莓冰沙",
+    "category": "冰饮系列",
+    "price": "38.00",
+    "cost": "15.00",
+    "stock": 62
+  },
+  {
+    "id": 17,
+    "product_id": "P017",
+    "product_name": "巧克力蛋糕",
+    "category": "烘焙甜品",
+    "price": "45.00",
+    "cost": "18.00",
+    "stock": 56
+  },
+  {
+    "id": 18,
+    "product_id": "P018",
+    "product_name": "牛角包",
+    "category": "烘焙甜品",
+    "price": "18.00",
+    "cost": "7.00",
+    "stock": 84
+  },
+  {
+    "id": 19,
+    "product_id": "P019",
+    "product_name": "红茶拿铁",
+    "category": "茶饮系列",
+    "price": "32.00",
+    "cost": "13.00",
+    "stock": 59
+  },
+  {
+    "id": 20,
+    "product_id": "P020",
+    "product_name": "绿茶拿铁",
+    "category": "茶饮系列",
+    "price": "32.00",
+    "cost": "13.00",
+    "stock": 116
+  }
+]

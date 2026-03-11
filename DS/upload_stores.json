@@ -1,0 +1,502 @@
+[
+  {
+    "store_id": "S001",
+    "store_name": "益禾堂(长沙市5号店)",
+    "region": "湖南",
+    "city": "长沙市",
+    "address": "长沙市步行街5号",
+    "manager": "店长40",
+    "phone": "13882208982",
+    "open_date": "2023-01-09"
+  },
+  {
+    "store_id": "S002",
+    "store_name": "益禾堂(青岛市5号店)",
+    "region": "山东",
+    "city": "青岛市",
+    "address": "青岛市步行街8号",
+    "manager": "店长26",
+    "phone": "13861319031",
+    "open_date": "2023-01-14"
+  },
+  {
+    "store_id": "S003",
+    "store_name": "喜茶(杭州市1号店)",
+    "region": "浙江",
+    "city": "杭州市",
+    "address": "杭州市步行街7号",
+    "manager": "店长15",
+    "phone": "13835709864",
+    "open_date": "2023-03-13"
+  },
+  {
+    "store_id": "S004",
+    "store_name": "蜜雪冰城(西安市1号店)",
+    "region": "陕西",
+    "city": "西安市",
+    "address": "西安市步行街9号",
+    "manager": "店长49",
+    "phone": "13896110253",
+    "open_date": "2023-09-16"
+  },
+  {
+    "store_id": "S005",
+    "store_name": "一点点(长沙市2号店)",
+    "region": "湖南",
+    "city": "长沙市",
+    "address": "长沙市中心区5号",
+    "manager": "店长29",
+    "phone": "13882988657",
+    "open_date": "2023-07-16"
+  },
+  {
+    "store_id": "S006",
+    "store_name": "奈雪的茶(苏州市4号店)",
+    "region": "江苏",
+    "city": "苏州市",
+    "address": "苏州市商业区10号",
+    "manager": "店长11",
+    "phone": "13829022306",
+    "open_date": "2023-10-06"
+  },
+  {
+    "store_id": "S007",
+    "store_name": "CoCo都可(厦门市2号店)",
+    "region": "福建",
+    "city": "厦门市",
+    "address": "厦门市步行街5号",
+    "manager": "店长17",
+    "phone": "13879146298",
+    "open_date": "2023-04-03"
+  },
+  {
+    "store_id": "S008",
+    "store_name": "书亦烧仙草(郑州市5号店)",
+    "region": "河南",
+    "city": "郑州市",
+    "address": "郑州市商业区10号",
+    "manager": "店长88",
+    "phone": "13896783035",
+    "open_date": "2023-06-22"
+  },
+  {
+    "store_id": "S009",
+    "store_name": "一点点(厦门市3号店)",
+    "region": "福建",
+    "city": "厦门市",
+    "address": "厦门市万象城5号",
+    "manager": "店长85",
+    "phone": "13894265740",
+    "open_date": "2023-07-15"
+  },
+  {
+    "store_id": "S010",
+    "store_name": "奈雪的茶(苏州市1号店)",
+    "region": "江苏",
+    "city": "苏州市",
+    "address": "苏州市万达广场4号",
+    "manager": "店长39",
+    "phone": "13855085919",
+    "open_date": "2023-09-23"
+  },
+  {
+    "store_id": "S011",
+    "store_name": "古茗(重庆市5号店)",
+    "region": "重庆",
+    "city": "重庆市",
+    "address": "重庆市万象城9号",
+    "manager": "店长26",
+    "phone": "13886722306",
+    "open_date": "2023-02-17"
+  },
+  {
+    "store_id": "S012",
+    "store_name": "奈雪的茶(重庆市2号店)",
+    "region": "重庆",
+    "city": "重庆市",
+    "address": "重庆市万象城1号",
+    "manager": "店长42",
+    "phone": "13851580693",
+    "open_date": "2023-03-19"
+  },
+  {
+    "store_id": "S013",
+    "store_name": "茶颜悦色(昆明市3号店)",
+    "region": "云南",
+    "city": "昆明市",
+    "address": "昆明市万象城8号",
+    "manager": "店长100",
+    "phone": "13855355647",
+    "open_date": "2023-01-19"
+  },
+  {
+    "store_id": "S014",
+    "store_name": "喜茶(西安市3号店)",
+    "region": "陕西",
+    "city": "西安市",
+    "address": "西安市中心区1号",
+    "manager": "店长81",
+    "phone": "13822274581",
+    "open_date": "2023-12-26"
+  },
+  {
+    "store_id": "S015",
+    "store_name": "奈雪的茶(南京市2号店)",
+    "region": "江苏",
+    "city": "南京市",
+    "address": "南京市中心区2号",
+    "manager": "店长31",
+    "phone": "13815936940",
+    "open_date": "2023-09-25"
+  },
+  {
+    "store_id": "S016",
+    "store_name": "茶颜悦色(重庆市5号店)",
+    "region": "重庆",
+    "city": "重庆市",
+    "address": "重庆市万达广场9号",
+    "manager": "店长95",
+    "phone": "13817489854",
+    "open_date": "2023-08-28"
+  },
+  {
+    "store_id": "S017",
+    "store_name": "一点点(深圳市3号店)",
+    "region": "广东",
+    "city": "深圳市",
+    "address": "深圳市商业区7号",
+    "manager": "店长70",
+    "phone": "13876828680",
+    "open_date": "2023-05-14"
+  },
+  {
+    "store_id": "S018",
+    "store_name": "古茗(长沙市5号店)",
+    "region": "湖南",
+    "city": "长沙市",
+    "address": "长沙市步行街3号",
+    "manager": "店长64",
+    "phone": "13899697717",
+    "open_date": "2023-01-18"
+  },
+  {
+    "store_id": "S019",
+    "store_name": "一点点(武汉市2号店)",
+    "region": "湖北",
+    "city": "武汉市",
+    "address": "武汉市万达广场4号",
+    "manager": "店长68",
+    "phone": "13833482354",
+    "open_date": "2023-04-06"
+  },
+  {
+    "store_id": "S020",
+    "store_name": "蜜雪冰城(苏州市3号店)",
+    "region": "江苏",
+    "city": "苏州市",
+    "address": "苏州市中心区8号",
+    "manager": "店长14",
+    "phone": "13860647095",
+    "open_date": "2023-06-12"
+  },
+  {
+    "store_id": "S021",
+    "store_name": "沪上阿姨(杭州市4号店)",
+    "region": "浙江",
+    "city": "杭州市",
+    "address": "杭州市万达广场5号",
+    "manager": "店长72",
+    "phone": "13857204785",
+    "open_date": "2023-11-04"
+  },
+  {
+    "store_id": "S022",
+    "store_name": "奈雪的茶(苏州市4号店)",
+    "region": "江苏",
+    "city": "苏州市",
+    "address": "苏州市商业区8号",
+    "manager": "店长14",
+    "phone": "13871753082",
+    "open_date": "2023-05-05"
+  },
+  {
+    "store_id": "S023",
+    "store_name": "七分甜(郑州市4号店)",
+    "region": "河南",
+    "city": "郑州市",
+    "address": "郑州市万达广场6号",
+    "manager": "店长94",
+    "phone": "13858376166",
+    "open_date": "2023-10-20"
+  },
+  {
+    "store_id": "S024",
+    "store_name": "茶百道(昆明市4号店)",
+    "region": "云南",
+    "city": "昆明市",
+    "address": "昆明市万达广场6号",
+    "manager": "店长28",
+    "phone": "13852868685",
+    "open_date": "2023-11-26"
+  },
+  {
+    "store_id": "S025",
+    "store_name": "蜜雪冰城(青岛市1号店)",
+    "region": "山东",
+    "city": "青岛市",
+    "address": "青岛市中心区10号",
+    "manager": "店长44",
+    "phone": "13851784135",
+    "open_date": "2023-06-15"
+  },
+  {
+    "store_id": "S026",
+    "store_name": "霸王茶姬(重庆市2号店)",
+    "region": "重庆",
+    "city": "重庆市",
+    "address": "重庆市中心区10号",
+    "manager": "店长100",
+    "phone": "13835910885",
+    "open_date": "2023-04-20"
+  },
+  {
+    "store_id": "S027",
+    "store_name": "茶百道(昆明市5号店)",
+    "region": "云南",
+    "city": "昆明市",
+    "address": "昆明市商业区8号",
+    "manager": "店长11",
+    "phone": "13853363858",
+    "open_date": "2023-06-19"
+  },
+  {
+    "store_id": "S028",
+    "store_name": "七分甜(合肥市1号店)",
+    "region": "安徽",
+    "city": "合肥市",
+    "address": "合肥市万象城1号",
+    "manager": "店长64",
+    "phone": "13850931141",
+    "open_date": "2023-07-13"
+  },
+  {
+    "store_id": "S029",
+    "store_name": "书亦烧仙草(郑州市3号店)",
+    "region": "河南",
+    "city": "郑州市",
+    "address": "郑州市万达广场2号",
+    "manager": "店长2",
+    "phone": "13884895664",
+    "open_date": "2023-06-04"
+  },
+  {
+    "store_id": "S030",
+    "store_name": "书亦烧仙草(南京市4号店)",
+    "region": "江苏",
+    "city": "南京市",
+    "address": "南京市中心区6号",
+    "manager": "店长18",
+    "phone": "13838065629",
+    "open_date": "2023-08-27"
+  },
+  {
+    "store_id": "S031",
+    "store_name": "甜啦啦(苏州市1号店)",
+    "region": "江苏",
+    "city": "苏州市",
+    "address": "苏州市中心区7号",
+    "manager": "店长28",
+    "phone": "13884546247",
+    "open_date": "2023-04-28"
+  },
+  {
+    "store_id": "S032",
+    "store_name": "悸动烧仙草(青岛市1号店)",
+    "region": "山东",
+    "city": "青岛市",
+    "address": "青岛市商业区2号",
+    "manager": "店长31",
+    "phone": "13816362972",
+    "open_date": "2023-07-01"
+  },
+  {
+    "store_id": "S033",
+    "store_name": "七分甜(郑州市2号店)",
+    "region": "河南",
+    "city": "郑州市",
+    "address": "郑州市万象城1号",
+    "manager": "店长44",
+    "phone": "13899402379",
+    "open_date": "2023-01-25"
+  },
+  {
+    "store_id": "S034",
+    "store_name": "奈雪的茶(武汉市2号店)",
+    "region": "湖北",
+    "city": "武汉市",
+    "address": "武汉市万达广场5号",
+    "manager": "店长69",
+    "phone": "13844832629",
+    "open_date": "2023-05-03"
+  },
+  {
+    "store_id": "S035",
+    "store_name": "沪上阿姨(重庆市2号店)",
+    "region": "重庆",
+    "city": "重庆市",
+    "address": "重庆市万达广场8号",
+    "manager": "店长8",
+    "phone": "13836489947",
+    "open_date": "2023-04-05"
+  },
+  {
+    "store_id": "S036",
+    "store_name": "益禾堂(合肥市4号店)",
+    "region": "安徽",
+    "city": "合肥市",
+    "address": "合肥市中心区7号",
+    "manager": "店长14",
+    "phone": "13880268217",
+    "open_date": "2023-12-12"
+  },
+  {
+    "store_id": "S037",
+    "store_name": "悸动烧仙草(重庆市1号店)",
+    "region": "重庆",
+    "city": "重庆市",
+    "address": "重庆市万象城5号",
+    "manager": "店长19",
+    "phone": "13881960774",
+    "open_date": "2023-11-16"
+  },
+  {
+    "store_id": "S038",
+    "store_name": "悸动烧仙草(厦门市5号店)",
+    "region": "福建",
+    "city": "厦门市",
+    "address": "厦门市步行街9号",
+    "manager": "店长1",
+    "phone": "13866882727",
+    "open_date": "2023-03-26"
+  },
+  {
+    "store_id": "S039",
+    "store_name": "茶颜悦色(厦门市3号店)",
+    "region": "福建",
+    "city": "厦门市",
+    "address": "厦门市商业区3号",
+    "manager": "店长34",
+    "phone": "13811085488",
+    "open_date": "2023-04-12"
+  },
+  {
+    "store_id": "S040",
+    "store_name": "沪上阿姨(深圳市5号店)",
+    "region": "广东",
+    "city": "深圳市",
+    "address": "深圳市中心区6号",
+    "manager": "店长57",
+    "phone": "13884152559",
+    "open_date": "2023-07-08"
+  },
+  {
+    "store_id": "S041",
+    "store_name": "霸王茶姬(厦门市5号店)",
+    "region": "福建",
+    "city": "厦门市",
+    "address": "厦门市商业区5号",
+    "manager": "店长32",
+    "phone": "13871875199",
+    "open_date": "2023-09-17"
+  },
+  {
+    "store_id": "S042",
+    "store_name": "霸王茶姬(南京市4号店)",
+    "region": "江苏",
+    "city": "南京市",
+    "address": "南京市万达广场8号",
+    "manager": "店长76",
+    "phone": "13818120117",
+    "open_date": "2023-02-20"
+  },
+  {
+    "store_id": "S043",
+    "store_name": "茶颜悦色(郑州市2号店)",
+    "region": "河南",
+    "city": "郑州市",
+    "address": "郑州市万达广场3号",
+    "manager": "店长21",
+    "phone": "13843043609",
+    "open_date": "2023-07-10"
+  },
+  {
+    "store_id": "S044",
+    "store_name": "蜜雪冰城(广州市4号店)",
+    "region": "广东",
+    "city": "广州市",
+    "address": "广州市万达广场3号",
+    "manager": "店长86",
+    "phone": "13836107501",
+    "open_date": "2023-08-21"
+  },
+  {
+    "store_id": "S045",
+    "store_name": "茶颜悦色(合肥市5号店)",
+    "region": "安徽",
+    "city": "合肥市",
+    "address": "合肥市万达广场1号",
+    "manager": "店长58",
+    "phone": "13853257777",
+    "open_date": "2023-03-28"
+  },
+  {
+    "store_id": "S046",
+    "store_name": "喜茶(成都市1号店)",
+    "region": "四川",
+    "city": "成都市",
+    "address": "成都市中心区8号",
+    "manager": "店长97",
+    "phone": "13836759685",
+    "open_date": "2023-06-16"
+  },
+  {
+    "store_id": "S047",
+    "store_name": "霸王茶姬(深圳市3号店)",
+    "region": "广东",
+    "city": "深圳市",
+    "address": "深圳市中心区4号",
+    "manager": "店长64",
+    "phone": "13810849781",
+    "open_date": "2023-08-09"
+  },
+  {
+    "store_id": "S048",
+    "store_name": "奈雪的茶(青岛市4号店)",
+    "region": "山东",
+    "city": "青岛市",
+    "address": "青岛市万象城8号",
+    "manager": "店长72",
+    "phone": "13837047595",
+    "open_date": "2023-05-05"
+  },
+  {
+    "store_id": "S049",
+    "store_name": "喜茶(南京市3号店)",
+    "region": "江苏",
+    "city": "南京市",
+    "address": "南京市商业区8号",
+    "manager": "店长59",
+    "phone": "13889704392",
+    "open_date": "2023-04-03"
+  },
+  {
+    "store_id": "S050",
+    "store_name": "喜茶(苏州市4号店)",
+    "region": "江苏",
+    "city": "苏州市",
+    "address": "苏州市中心区10号",
+    "manager": "店长88",
+    "phone": "13856805336",
+    "open_date": "2023-05-28"
+  }
+]

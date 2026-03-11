@@ -1,0 +1,22 @@
+{
+  "name": "koa_server",
+  "version": "1.0.0",
+  "description": "Coffee project backend API server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "koa": "^2.12.0",
+    "koa-body": "^7.0.1",
+    "koa-router": "^14.0.0",
+    "mysql2": "^3.19.0",
+    "sqlite3": "^5.1.7",
+    "ws": "^7.3.0"
+  }
+}
